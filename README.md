@@ -1,1 +1,24 @@
-G-Earth HClickThrough
+# G-Earth HClickThrough
+Extension built to give you the ability to click through Habbo users
+
+1. Download G-Earth. There is 64Bit and 32Bit, please use the correct one according to your computers operating system
+2. Keep everything in this file (Geode.dll, Geode.Extension.Windows.dll, websocket-sharp.dll, and the rest of files there)
+3. Open the G-Earth folder and double click G-Earth and connect.
+4. Once you have connected please double click the Ef Bot that is in the HClickThrough - Release folder
+5. G-Earth will say "Extension HClickThrough tries to connect but isn't known to G-Earth, accept this connection?"
+6. Click YES
+7. Click Activate
+8. Click ON to turn it on OR click OFF to turn it OFF
+
+If you need help using this extension please message me on discord Ahmed#8333
+
+# G-Earth Download:
+
+Windows 32 BIT: 
+
+Windows 64 BIT: 
+
+# Extension Download:
+
+Extension Download: 
+
